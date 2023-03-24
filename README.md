@@ -9,6 +9,6 @@ The Chinese language file for Minecraft mod Ferdinand's Flowers. I cannot sign u
 
 1.解压mod文件
 
-2.将json文件放入assets/ferdinandsflowers/lang文件夹
+2.将json或lang文件放入assets/ferdinandsflowers/lang文件夹
 
-3.将mod文件夹压缩回jar文件
+3.将mod文件夹压缩回jar文件（或先压缩成zip再改后缀为jar）
